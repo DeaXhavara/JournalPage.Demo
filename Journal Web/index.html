@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Journaling</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header-container">
+    <img src="images/writin.webp" class="header-logo">
+    <h1>● My Journal ●</h1>
+    <h4>Every moment is worth writing down...</h4>
+    <img src="images/writin.webp" class="header-logo">
+  </header>
+
+  
+  <div class="book">
+    <aside class="sticker-shelf">
+      <h2>Stickers</h2>
+      <hr>
+      <div class="sticker-container">
+        <img src="images/books.png" class="sticker" draggable="false">
+        <img src="images/donuts.png" class="sticker" draggable="false">
+        <img src="images/mirror.png" class="sticker" draggable="false">
+        <img src="images/purple.png" class="sticker" draggable="false">
+        <img src="images/sunflower.png" class="sticker" draggable="false">
+        <img src="images/flo.png" class="sticker" draggable="false">
+        <img src="images/flower.png" class="sticker" draggable="false">
+      </div>
+    </aside>
+
+    <main class="journal-page">
+      <div class="controls">
+        <select id="themeSelector">
+          <option value="">Choose a theme:</option>
+          <option value="safePlace">My safe place</option>
+          <option value="todaysDream">Today's Dreams</option>
+          <option value="futureLetter">A Letter to My Future Self</option>
+        </select>
+      </div>
+
+      <p id="promptText" class="prompt">Let your mind calm as you write...</p>
+      <textarea id="journalEntry" placeholder="Write whatever you want now..."></textarea>
+      <div id="stickerCanvas" class="canvas"></div>
+    </main>
+  </div>
+  
+  <div id="trashBin" title="Drag the sticker here to delete it">
+    <img src="images/trash.webp" alt="Trash Bin" />
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
