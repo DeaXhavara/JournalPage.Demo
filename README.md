@@ -37,7 +37,8 @@ If this were to level up to a legit product, here's what could happen:
 
 ## 📷 Screenshots
 
-
+![Header](./screenshots/journalsc1.png)
+![The Note](./screenshots/journalsc2.png)
 
 ## 🚧 Limitations
 
