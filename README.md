@@ -1,6 +1,6 @@
 # 📝 Journal Sticker Demo
 
-Welcome to my Journal Sticker Page Demo! Digital scrapbooking meets a basic note app
+Welcome to my Journal Sticker Page Demo! Digital scrapbooking meets a basic note app:
 
 ## 🌟 What It Does
 
