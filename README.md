@@ -46,8 +46,3 @@ If this were to level up to a legit product, here's what could happen:
 - No saving or database functionality
 - No user login
 - Stickers are limited and not customizable (yet)
-
-
-## 🚀 How to Run It
-
-Clone the repo and open the HTML file in your browser. 
