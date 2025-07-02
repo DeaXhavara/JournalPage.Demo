@@ -2,7 +2,7 @@
 
 Welcome to my Journal Sticker Page Demo! Digital scrapbooking meets a basic note app:
 
-## 🌟 What It Does
+## What It Does
 
 This is a tiny, single-page journal where you can:
 - Choose a writing theme to get inspired
@@ -18,7 +18,7 @@ This isn't a full-featured app. It's a **demo**. A project built to showcase:
 - Simple user interaction
 - Aesthetic layout and font usage
 
-## 💡 Future Plans 
+## Future Plans 
 
 If this were to level up to a legit product, here's what could happen:
 - ✨ **Persistent journals**: Save your entries to a database
@@ -35,7 +35,7 @@ If this were to level up to a legit product, here's what could happen:
 - CSS
 - JavaScript
 
-## 📷 Screenshots
+## Screenshots
 
 ![Header](./screenshots/journalsc1.PNG)
 ![The Note](./screenshots/journalsc2.PNG)
