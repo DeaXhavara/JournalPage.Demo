@@ -21,7 +21,7 @@ This isn't a full-featured app. It's a **demo**. A project built to showcase:
 ## Future Plans 
 
 If this were to level up to a legit product, here's what could happen:
-- ✨ **Persistent journals**: Save your entries to a database
+- **Persistent journals**: Save your entries to a database
 - 🧠 **User accounts**: Log in and manage your own private journals
 - 🌚 **Dark mode**: Convenient to use during night time.
 - 🎨 **More stickers & sticker packs**: Grouped in categories
