@@ -24,7 +24,7 @@ If this were to level up to a legit product, here's what could happen:
 - **Persistent journals**: Save your entries to a database
 - **User accounts**: Log in and manage your own private journals
 - **Dark mode**: Convenient to use during night time.
-- 🎨 **More stickers & sticker packs**: Grouped in categories
+- **More stickers & sticker packs**: Grouped in categories
 - 💾 **Autosave**: Prevents data loss.
 - 📱 **Mobile optimization**: Journal on-the-go
 - 🔐 **Privacy options**: Lock your notes, share only what you want
