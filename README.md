@@ -1,6 +1,6 @@
-# 📝 Journal Sticker Demo
+# Journal Sticker Demo (Javascript + CSS sticker animation)
 
-Welcome to my Journal Sticker Page Demo! Digital scrapbooking meets a basic note app:
+Welcome to my Journal Sticker Page Demo! 
 
 ## What It Does
 
