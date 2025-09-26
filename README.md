@@ -1,12 +1,10 @@
 # Journal Sticker Demo (Javascript + CSS sticker animation)
 
-Welcome to my Journal Sticker Page Demo! 
-
 ## What It Does
 
 This is a tiny, single-page journal where you can:
 - Choose a writing theme to get inspired
-- Drag stickers into your note to spice it up
+- Drag stickers into your note
 - Throw those same stickers into the trash as preferred 
 - A playful interface that gives off retro journaling vibes
 
