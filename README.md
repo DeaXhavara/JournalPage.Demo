@@ -6,7 +6,7 @@ This is a tiny, single-page journal where you can:
 - Choose a writing theme to get inspired
 - Drag stickers into your note
 - Throw those same stickers into the trash as preferred 
-- A playful interface that gives off retro journaling vibes
+- A playful interface 
 
 ### Purpose Of The Page
 
@@ -21,7 +21,7 @@ This isn't a full-featured app. It's a **demo**. A project built to showcase:
 Features to be updated:
 - **Persistent journals**: Save your entries to a database
 - **User accounts**: Log in and manage your own private journals
-- **Dark mode**: Convenient to use during night time.
+- **Dark mode**: Convenient to use during nighttime.
 - **More stickers & sticker packs**: Grouped in categories
 - **Autosave**: Prevents data loss.
 - **Mobile optimization**: Journal on-the-go
