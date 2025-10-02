@@ -14,9 +14,9 @@ This isn't a full-featured app. It's a **demo**. A project built to showcase:
 - JavaScript DOM manipulation
 - Drag-and-drop logic
 - Simple user interaction
-- Aesthetic layout and font usage
+- Layout and font usage
 
-## Future Plans 
+## Coming Soon 
 
 Features to be updated:
 - **Persistent journals**: Save your entries to a database
